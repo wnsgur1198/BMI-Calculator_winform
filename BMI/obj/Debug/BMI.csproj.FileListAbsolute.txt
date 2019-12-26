@@ -1,0 +1,15 @@
+c:\users\hlk\documents\visual studio 2015\Projects\BMI\BMI\bin\Debug\BMI.exe.config
+c:\users\hlk\documents\visual studio 2015\Projects\BMI\BMI\bin\Debug\BMI.exe
+c:\users\hlk\documents\visual studio 2015\Projects\BMI\BMI\bin\Debug\BMI.pdb
+c:\users\hlk\documents\visual studio 2015\Projects\BMI\BMI\obj\Debug\BMI.csprojResolveAssemblyReference.cache
+c:\users\hlk\documents\visual studio 2015\Projects\BMI\BMI\obj\Debug\BMI.Properties.Resources.resources
+c:\users\hlk\documents\visual studio 2015\Projects\BMI\BMI\obj\Debug\BMI.csproj.GenerateResource.Cache
+c:\users\hlk\documents\visual studio 2015\Projects\BMI\BMI\obj\Debug\BMI.exe
+c:\users\hlk\documents\visual studio 2015\Projects\BMI\BMI\obj\Debug\BMI.pdb
+c:\users\hlk\documents\visual studio 2015\Projects\BMI\BMI\obj\Debug\BMI.Form1.resources
+C:\Users\hlk\Desktop\BMI\BMI\bin\Debug\BMI.exe.config
+C:\Users\hlk\Desktop\BMI\BMI\obj\Debug\BMI.exe
+C:\Users\hlk\Desktop\BMI\BMI\obj\Debug\BMI.pdb
+H:\대학\2학년\설계\과제\BMI-김준혁\BMI\bin\Debug\BMI.exe.config
+H:\대학\2학년\설계\과제\BMI-김준혁\BMI\obj\Debug\BMI.exe
+H:\대학\2학년\설계\과제\BMI-김준혁\BMI\obj\Debug\BMI.pdb
